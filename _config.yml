@@ -9,10 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
+timezone: Europe/Berlin
 
 title: F0x # the main title
 
@@ -26,10 +23,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://f0x.github.io"
 
 github:
-  username:  F0x # change to your GitHub username
-
-#twitter:
-#  username: twitter_username # change to your Twitter username
+  username:  F0x-Dev # change to your GitHub username
 
 social:
   # Change to your full name.
